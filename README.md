@@ -30,6 +30,7 @@ Database kafe_app dirancang dengan delapan tabel utama yang saling berelasi untu
 🤝 Kontribusi
 
 Jika Anda menemukan area untuk perbaikan atau memiliki saran untuk skema database ini, silakan ajukan issue atau pull request di repositori proyek utama.
+
 📝 Lisensi
 
 Skema database ini adalah bagian dari Aplikasi Manajemen Kafe dan dilisensikan di bawah [Nama Lisensi Anda, contoh: MIT License].
